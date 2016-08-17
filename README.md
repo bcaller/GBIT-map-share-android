@@ -1,5 +1,5 @@
 # GBIT-map-share-android
-Share places from Google Maps to Pebble GBIT &amp; navigate by compass
+Share places from Google Maps to Pebble Get Back In Time &amp; navigate by compass
 
 This is an Android app which lets you share locations from Google Maps to your Pebble.
 It starts the Pebble app Get Back In Time [@samuelmr/pebble-getbackintime](https://github.com/samuelmr/pebble-getbackintime) and points the compass to where you want to go.
