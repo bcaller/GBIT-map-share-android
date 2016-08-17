@@ -8,3 +8,4 @@ Having the compass point makes it really easy to walk somewhere new. This makes 
 
 It requires my fork [@bcaller/pebble-getbackintime:bcaller-android-maps-share](https://github.com/bcaller/pebble-getbackintime/tree/bcaller-android-maps-share) which maybe will be pulled in to Samuel's app.
 
+Soon available on [Play Store](https://play.google.com/store/apps/details?id=caller.pebble.mapper)
