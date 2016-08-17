@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GBIT Map Share for Pebble</string>
+    <string name="app_name_internal">Pebble Get Back In Time</string>
+    <string name="send_failed">Failed to send %s to Pebble. Sorry."</string>
+    <string name="sending_pending">Still trying to send %s to Pebble</string>
+    <string name="sending_complete">Watch has received %s</string>
+    <string name="sending_begin">Sending %s to Pebble</string>
+    <string name="pebble_disconnected">Connect your Pebble and try again</string>
+    <string name="timeline_body">Sent via GBIT Map Share &amp; Google Maps</string>
+    <string name="generic_location">Dropped Pin</string>
+</resources>
